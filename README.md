@@ -11,6 +11,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | PolMeth | London | LSE | 7&8 April | November 30th 2024 |
 | ECPR "Text-as-Data Analysis in Political Science: Unlocking Political Insights with New Research Tools" | Charles University, Prague | Steffen Eckhard & Michal Parízek | End of May | November 21st |
 | EPSA 2025 Pol Methods | Carlos III University, Madrid | EPSA | 26 - 28 June 2025 | December 12th |
+| [FinTech 2025 : 2025 FinTech and Financial Institutions Conference](https://callforpaper.org/cfp/fintech-2025-2025-fintech-and-financial-institutions-conference_2602)| Philadelphia, PA | Paul Laux, University of Delaware | April 10-11, 2025 | December 30, 2024 |
 
 ## **2025 Summer/ Winter Schools**
 | Name and Link  | Location  | Organizer | Dates | Deadline | Fee |
