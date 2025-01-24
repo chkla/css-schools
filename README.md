@@ -8,6 +8,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | Name and Link  | Location  | Organizer | Dates | Deadline |
 |---|---|---|---|---|
 | COMPTEXT | tbd | tbd | tbd | tbd |
+| [Text as Data Workshop in Hydrology, Natural Hazards, and Climate Change Research](https://docs.google.com/forms/d/e/1FAIpQLSfDAqcaXNV2V3ZihOYgvhKHS0X9_OWuDlu1AshP8HIokP1q9w/viewform) | UFZ, Leipzig, Germany | UFZ, Uni Potsdam, PIK, and Uni Leipzig | 28 Mar 2025 | Feb 1, 2025 |
 | PolMeth | London | LSE | 7&8 April | November 30th 2024 |
 | ECPR "Text-as-Data Analysis in Political Science: Unlocking Political Insights with New Research Tools" | Charles University, Prague | Steffen Eckhard & Michal Parízek | End of May | November 21st |
 | EPSA 2025 Pol Methods | Carlos III University, Madrid | EPSA | 26 - 28 June 2025 | December 12th |
